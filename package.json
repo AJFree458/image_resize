@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/AJFree458/image_resize/issues"
   },
-  "homepage": "https://github.com/AJFree458/image_resize#readme"
+  "homepage": "https://github.com/AJFree458/image_resize#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "inquirer": "^8.0.0",
+    "sharp": "^0.27.2"
+  }
 }
