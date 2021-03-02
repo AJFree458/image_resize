@@ -1,0 +1,26 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "A command line tool to change the number of pixels in an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJFree458/image_resize.git"
+  },
+  "keywords": [
+    "cli",
+    "javascript",
+    "pixels",
+    "image",
+    "resize"
+  ],
+  "author": "Arthur Freeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJFree458/image_resize/issues"
+  },
+  "homepage": "https://github.com/AJFree458/image_resize#readme"
+}
